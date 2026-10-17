@@ -1,0 +1,37 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (Virtual Environments)
+.venv/
+venv/
+env/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Cấu hình môi trường nhạy cảm
+.env
+.env.local
+
+# Cơ sở dữ liệu và cache runtime
+state.db
+*.db-journal
+*.sqlite3
+
+# Bản sao lưu tự động khi gộp dữ liệu
+data/archive/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Thư mục tạm
+scratch/
+tmp/
