@@ -1,0 +1,621 @@
+[
+  {
+    "id": "chua-tran-quoc",
+    "name": "Chùa Trấn Quốc",
+    "type": "sight",
+    "area": "Tây Hồ",
+    "address": "46 Thanh Niên, Hà Nội",
+    "tags": [
+      "spiritual",
+      "culture",
+      "architecture"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 45,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 07:30-11:00; 13:30-17:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0482,
+    "lon": 105.8366,
+    "summary": "Chùa nằm trên đảo nhỏ sát đường Thanh Niên. Có thể ghé cùng tuyến dạo bờ đông Hồ Tây; mặc trang phục kín đáo.",
+    "sources": [
+      {
+        "url": "https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/tran-quoc-pagoda",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/chua-o-ho-tay",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "phu-tay-ho",
+    "name": "Phủ Tây Hồ",
+    "type": "sight",
+    "area": "Tây Hồ",
+    "address": "52 Đặng Thai Mai, Hà Nội",
+    "tags": [
+      "spiritual",
+      "culture",
+      "architecture"
+    ],
+    "price_vnd": 20000,
+    "price_note": "Dự trù 20.000đ/người/lần để tránh tính thiếu khi chưa xác nhận phí; khoảng giả định 0–30.000đ. Đây là khoản dự phòng lập kế hoạch, KHÔNG khẳng định địa điểm bán vé 20.000đ. Không gồm lễ vật, mua sắm hoặc gửi xe.",
+    "duration_min": 60,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 06:00-18:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0653,
+    "lon": 105.8191,
+    "summary": "Không gian tín ngưỡng thờ Mẫu nằm trên bán đảo ven Hồ Tây. Tránh giờ đông ngày rằm và mồng một nếu muốn tham quan yên tĩnh.",
+    "sources": [
+      {
+        "url": "https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/chua-o-ho-tay",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "contingency_allowance",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 30000
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "ho-tay",
+    "name": "Dạo bờ Hồ Tây - đường Trích Sài",
+    "type": "sight",
+    "area": "Tây Hồ",
+    "address": "Đường Trích Sài, ven Hồ Tây, Hà Nội",
+    "tags": [
+      "nature",
+      "view",
+      "family"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 90,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 06:00-21:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Sáng sớm hoặc cuối chiều; chọn vỉa hè an toàn, tránh mưa giông.",
+    "lat": 21.0558,
+    "lon": 105.8158,
+    "summary": "Tuyến dạo ven hồ thích hợp ngắm mặt nước và sinh hoạt địa phương. Chọn điểm xuất phát trên đường Trích Sài thay vì tọa độ giữa hồ.",
+    "sources": [
+      {
+        "url": "https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/hanoi-west-lake",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "chua-kim-lien",
+    "name": "Chùa Kim Liên",
+    "type": "sight",
+    "area": "Tây Hồ",
+    "address": "Phố Từ Hoa, Nghi Tàm, Hà Nội",
+    "tags": [
+      "spiritual",
+      "culture",
+      "architecture"
+    ],
+    "price_vnd": 20000,
+    "price_note": "Dự trù 20.000đ/người/lần để tránh tính thiếu khi chưa xác nhận phí; khoảng giả định 0–30.000đ. Đây là khoản dự phòng lập kế hoạch, KHÔNG khẳng định địa điểm bán vé 20.000đ. Không gồm lễ vật, mua sắm hoặc gửi xe.",
+    "duration_min": 45,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 08:00-17:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0578,
+    "lon": 105.8321,
+    "summary": "Ngôi chùa ở khu Nghi Tàm có kiến trúc gỗ và mái ngói truyền thống. Không gian có sân ngoài trời nên không dùng làm điểm tránh mưa hoàn toàn.",
+    "sources": [
+      {
+        "url": "https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/chua-o-ho-tay",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://hanoi.gov.vn/van-hien-thang-long/nhung-di-san-vat-the-va-phi-vat-the-khu-vuc-ho-tay-42730711.htm",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "contingency_allowance",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 30000
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "lang-hoa-quang-ba",
+    "name": "Chợ hoa đêm Quảng Bá",
+    "type": "experience",
+    "area": "Tây Hồ",
+    "address": "236 Âu Cơ, Hà Nội",
+    "tags": [
+      "nature",
+      "shopping",
+      "nightlife",
+      "culture"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 60,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 23:00-06:00 hôm sau. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Giả định ghé 02:00-05:00; đây là điểm ban đêm, không xếp mặc định trong lịch ban ngày.",
+    "lat": 21.0704,
+    "lon": 105.8258,
+    "summary": "Chợ đầu mối hoa phù hợp quan sát hoạt động giao thương về đêm. Đi sát lề và nhường đường cho xe vận chuyển hàng.",
+    "sources": [
+      {
+        "url": "https://www.traveloka.com/vi-vn/explore/destination/cho-hoa-quang-ba-acc/264269",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://www.greensm.com/vn-vi/news/cho-hoa-quang-ba-tay-ho-ha-noi",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "aeon-mall-long-bien",
+    "name": "AEON MALL Long Biên",
+    "type": "sight",
+    "area": "Long Biên",
+    "address": "27 Cổ Linh, Hà Nội",
+    "tags": [
+      "shopping",
+      "family"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 90,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: T2-T6 10:00-22:00; T7-CN 09:00-22:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": true,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0267,
+    "lon": 105.8984,
+    "summary": "Trung tâm thương mại có không gian mua sắm trong nhà. Ăn uống, rạp phim và trò chơi là các dịch vụ trả tiền riêng.",
+    "sources": [
+      {
+        "url": "https://aeonmall-long-bien.com.vn/",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://mia.vn/cam-nang-du-lich/aeon-mall-long-bien-diem-tham-quan-mua-sam-cuc-hot-tai-ha-noi-2721",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "chua-bo-de",
+    "name": "Chùa Bồ Đề",
+    "type": "sight",
+    "area": "Long Biên",
+    "address": "Khu Phú Viên, Bồ Đề, Hà Nội",
+    "tags": [
+      "spiritual",
+      "history",
+      "architecture"
+    ],
+    "price_vnd": 20000,
+    "price_note": "Dự trù 20.000đ/người/lần để tránh tính thiếu khi chưa xác nhận phí; khoảng giả định 0–30.000đ. Đây là khoản dự phòng lập kế hoạch, KHÔNG khẳng định địa điểm bán vé 20.000đ. Không gồm lễ vật, mua sắm hoặc gửi xe.",
+    "duration_min": 45,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 08:00-17:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0394,
+    "lon": 105.8711,
+    "summary": "Chùa ở bờ bắc sông Hồng, gần khu vực cầu Chương Dương. Giữ yên tĩnh tại nơi hành lễ và không tự ý vào khu sinh hoạt riêng.",
+    "sources": [
+      {
+        "url": "https://thcslongbien.hanoi.edu.vn/chua/chua-bo-de/ctfull/14864/567431",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "contingency_allowance",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 30000
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "dinh-le-mat",
+    "name": "Đình Lệ Mật",
+    "type": "sight",
+    "area": "Long Biên",
+    "address": "Phố Việt Hưng, làng Lệ Mật, Hà Nội",
+    "tags": [
+      "history",
+      "culture",
+      "architecture"
+    ],
+    "price_vnd": 20000,
+    "price_note": "Dự trù 20.000đ/người/lần để tránh tính thiếu khi chưa xác nhận phí; khoảng giả định 0–30.000đ. Đây là khoản dự phòng lập kế hoạch, KHÔNG khẳng định địa điểm bán vé 20.000đ. Không gồm lễ vật, mua sắm hoặc gửi xe.",
+    "duration_min": 60,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 08:00-17:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0584,
+    "lon": 105.8932,
+    "summary": "Đình thuộc cụm di tích làng Lệ Mật. Có thể tìm hiểu truyền thống lễ hội địa phương nhưng hoạt động lễ hội không diễn ra hằng ngày.",
+    "sources": [
+      {
+        "url": "https://thcsthuongthanh.longbien.edu.vn/hoat-dong/tham-quan-di-tich-lich-su-dia-phuong-cua-hoc-sinh-khoi-6-truong-thcs-thuong-tha/ctfull/5020/554544",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://baotanglichsuquocgia.vn/vi/Articles/3096/16920/long-bien-vung-djat-giau-truyen-thong-lich-su-van-hoa.html",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "contingency_allowance",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 30000
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "cong-vien-long-bien",
+    "name": "Công viên Long Biên",
+    "type": "sight",
+    "area": "Long Biên",
+    "address": "Khu vực Đoàn Khuê - Vạn Hạnh, Việt Hưng, Hà Nội",
+    "tags": [
+      "nature",
+      "family",
+      "view"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 75,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 06:00-21:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0663,
+    "lon": 105.8978,
+    "summary": "Công viên ở khu đô thị Việt Hưng phù hợp đi dạo và vận động nhẹ. Không đồng nhất với công viên hoa hồng có thu phí tại khu Thạch Bàn.",
+    "sources": [
+      {
+        "url": "https://hanoidep.vn/cong-vien-long-bien-p-van-hanh-khu-do-thi-viet-hung-long-bien-ha-noi/",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://paracelresort.com/cong-vien-long-bien-o-dau-danh-gia-vi-tri-khong-gian-va-trai-nghiem-thuc-te/",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "cong-vien-thong-nhat",
+    "name": "Công viên Thống Nhất",
+    "type": "sight",
+    "area": "Hai Bà Trưng",
+    "address": "Khu vực cổng Trần Nhân Tông, Hà Nội",
+    "tags": [
+      "nature",
+      "family",
+      "view"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 90,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 05:00-21:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0173,
+    "lon": 105.8436,
+    "summary": "Công viên có các lối đi quanh hồ Bảy Mẫu và nhiều cây xanh. Phù hợp nghỉ giữa hành trình nội đô; dịch vụ vui chơi tính riêng.",
+    "sources": [
+      {
+        "url": "https://www.vietnamairlines.com/go/vi/plan-book/travel/travel-guide/thong-nhat-park",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://vinwonders.com/vi/wonderpedia/news/cong-vien-thong-nhat-ha-noi/",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "den-hai-ba-trung-dong-nhan",
+    "name": "Đền Hai Bà Trưng - Đồng Nhân",
+    "type": "sight",
+    "area": "Hai Bà Trưng",
+    "address": "12 Hương Viên, Hà Nội",
+    "tags": [
+      "history",
+      "spiritual",
+      "culture"
+    ],
+    "price_vnd": 20000,
+    "price_note": "Dự trù 20.000đ/người/lần để tránh tính thiếu khi chưa xác nhận phí; khoảng giả định 0–30.000đ. Đây là khoản dự phòng lập kế hoạch, KHÔNG khẳng định địa điểm bán vé 20.000đ. Không gồm lễ vật, mua sắm hoặc gửi xe.",
+    "duration_min": 60,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: 08:00-17:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": false,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0109,
+    "lon": 105.8569,
+    "summary": "Đền trong cụm di tích đình, đền, chùa ở phố Hương Viên. Cần phân biệt với đền Hai Bà Trưng tại Mê Linh và đền Hát Môn.",
+    "sources": [
+      {
+        "url": "https://hanoi.gov.vn/tin-tuc-su-kien-noi-bat/cong-bo-quyet-dinh-ghi-danh-le-hoi-den-hai-ba-trung-vao-danh-muc-di-san-van-hoa-phi-vat-the-quoc-gia-4250305093508367.htm",
+        "accessed": "2026-10-19"
+      },
+      {
+        "url": "https://vn.trip.com/travel-guide/attraction/hanoi/hai-ba-trung-temple-20905666",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "contingency_allowance",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 30000
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  },
+  {
+    "id": "vincom-ba-trieu",
+    "name": "Vincom Center Bà Triệu",
+    "type": "sight",
+    "area": "Hai Bà Trưng",
+    "address": "191 Bà Triệu, Hà Nội",
+    "tags": [
+      "shopping",
+      "family"
+    ],
+    "price_vnd": 0,
+    "price_note": "Dự toán 0đ cho hoạt động đi dạo/tham quan phạm vi chung, không dùng dịch vụ trả phí. Đây là giả định của kịch bản; chưa gồm gửi xe, thuê xe, đồ uống, mua sắm, trò chơi, rạp phim, tour hoặc workshop. Không dùng giá 0 để khẳng định mọi dịch vụ tại điểm đều miễn phí.",
+    "duration_min": 75,
+    "opening_hours": "Khung giờ giả định phục vụ lập lịch: T2-T6 10:00-22:00; T7-CN 09:30-22:00. Không phải lịch mở cửa đã xác nhận.",
+    "indoor": true,
+    "best_time": "Buổi sáng hoặc chiều mát; kiểm tra lịch hoạt động trước khi đến.",
+    "lat": 21.0119,
+    "lon": 105.8493,
+    "summary": "Trung tâm mua sắm trong nhà trên phố Bà Triệu. Có thể dùng làm điểm nghỉ khi mưa; các hoạt động rạp phim và nhà hàng cần ngân sách riêng.",
+    "sources": [
+      {
+        "url": "https://vincom.com.vn/vincom-center-ba-trieu/gioi-thieu",
+        "accessed": "2026-10-19"
+      }
+    ],
+    "verified_at": null,
+    "verified_by": null,
+    "verification_status": "not_independently_verified",
+    "collected_by": "Codex",
+    "collected_at": "2026-10-19",
+    "coordinate_note": "Tọa độ tham chiếu ước tính, chưa xác nhận chính xác cổng vào trên Google Maps.",
+    "price_status": "estimated",
+    "estimated_at": "2026-10-20",
+    "estimate_basis": "Giả định do Codex chốt theo yêu cầu của người dùng để thử nghiệm dự án, không phải giá niêm yết đã kiểm chứng.",
+    "price_unit": "VND/person/visit",
+    "cost_scope": "walking_or_common_area_only",
+    "price_range_vnd": {
+      "min": 0,
+      "max": 0
+    },
+    "data_status": "estimated_for_planning",
+    "prepared_by": "Codex",
+    "prepared_at": "2026-10-20",
+    "opening_hours_status": "estimated",
+    "coordinates_status": "approximate",
+    "duration_status": "estimated",
+    "cost_label": "Chi phí lập kế hoạch ước tính cho một người tại một điểm dừng"
+  }
+]
